@@ -1,0 +1,9 @@
+extension LCSymTab {
+    
+    struct StringTableEntry {
+        
+        
+        
+    }
+    
+}
